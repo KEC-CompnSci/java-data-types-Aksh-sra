@@ -26,5 +26,13 @@ public class Assignment {
         myBoolean = false;
         myStringArray = null;
         myIntArray = null;
-    }
+
+        myString = "Hello World";
+        myInt = 39;
+        myDouble = 2.13;
+        myBoolean = true;
+        myStringArray = new String[]{"Orange", "Banana", "Cherry"};
+        myIntArray = new int[]{30, 50, 60};  
+        
 }
+    }
